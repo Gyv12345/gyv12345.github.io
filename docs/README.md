@@ -8,7 +8,7 @@ actionLink: /guide/file/
 features:
 - title: 简洁至上
   details: 使用springboot为核心，打造单体基础项目。
-- title: Ant Design
+- title: Ant Design pro vue
   details: 使用antdvp 打造前端展示界面，基于ant有着完整的设计样式
 - title: 结构清晰
   details: 单体多模块构建整个项目，易于spring cloud整合
